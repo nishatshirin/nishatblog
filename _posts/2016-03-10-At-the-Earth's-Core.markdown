@@ -8,7 +8,7 @@ image:
 date:       2016-03-10 
 header-img: "img/postcover/pc004.jpg"
 tags: [tag01]
-categories: [cat02]
+categories: [cat02,Sample Posts]
 comments: false
 ---
 

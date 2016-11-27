@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "image": { "@type": "@id" }
+  },
+  "@id": "https://shaswatgupta.github.io/about/index.html",
+  "@type": "Person",
+  "name": "Shaswat Gupta",
+  "image": "http://shaswatgupta.github.io/shaswatgupta.jpg",
+  "url" : "http://shaswatgupta.github.io",
+  "nationality": {
+    "@type": "Country",
+    "name": "India"
+  },
+  "jobTitle": "Software Engineer",
+  "address": 
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Google",
+    "url": "http://www.google.com/"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Google",
+    "url": "http://www.google.com/"
+  },
+  "sameAs": [
+    "https://twitter.com/shaswat770",
+    "https://plus.google.com/u/0/+ShaswatGuptaSG",
+    "https://www.linkedin.com/in/shaswatgupta",
+    "https://www.flickr.com/photos/shaswatgupta",
+    "https://www.instagram.com/shaswatgupta",
+    "https://github.com/shaswatgupta",
+    "https://disqus.com/by/shagup770",
+    "https://en.gravatar.com/shaswat770",
+    "https://in.pinterest.com/shaswat770/",
+    "https://www.youtube.com/channel/UCDko2CvHUAlsfP5OSGyiyGA"
+    
+  ]
+}
+</script>
