@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Multiple Galleries"
-subtitle: "A post with multiple galleries arranged with ISOTOPE"
+title: "First Post"
+subtitle: "A post"
 active: "journal"
 image:
   feature: "pc007.jpg"
