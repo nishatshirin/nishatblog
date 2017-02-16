@@ -4,9 +4,9 @@
     "@vocab": "http://schema.org/",
     "image": { "@type": "@id" }
   },
-  "@id": "https://shaswatgupta.github.io/about/index.html",
+  "@id": "https://nishatsshirin.github.io/about/index.html",
   "@type": "Person",
-  "name": "Shaswat Gupta",
+  "name": "Nishat Raza",
   "image": "http://shaswatgupta.github.io/shaswatgupta.jpg",
   "url" : "http://shaswatgupta.github.io",
   "nationality": {
